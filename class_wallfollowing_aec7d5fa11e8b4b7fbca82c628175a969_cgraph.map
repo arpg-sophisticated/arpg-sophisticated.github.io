@@ -1,0 +1,9 @@
+<map id="Wallfollowing::avoidObstacles" name="Wallfollowing::avoidObstacles">
+<area shape="rect" id="node1" title=" " alt="" coords="5,130,224,157"/>
+<area shape="rect" id="node2" href="$class_wallfollowing.html#ae44acbfbaa0d844c689f953ea691eaab" title=" " alt="" coords="272,64,459,105"/>
+<area shape="rect" id="node6" href="$class_circle.html#a9868b9fcb686a0207bfbeb8be160c2c4" title=" " alt="" coords="281,130,450,157"/>
+<area shape="rect" id="node7" href="$struct_point.html#a7c3bf7e2b52e63b8d6f7987f2429e17e" title=" " alt="" coords="313,181,417,207"/>
+<area shape="rect" id="node3" href="$namespace_geometric_functions.html#a05475f09d20e4482ecbdb7abb80f49f9" title=" " alt="" coords="507,5,715,47"/>
+<area shape="rect" id="node4" href="$struct_line.html#ae16899b229d209f5fa5d40049937e030" title=" " alt="" coords="763,42,861,69"/>
+<area shape="rect" id="node5" href="$namespace_geometric_functions.html#a5f8645bf70443f8e16ec25b54acdee41" title=" " alt="" coords="535,123,687,164"/>
+</map>

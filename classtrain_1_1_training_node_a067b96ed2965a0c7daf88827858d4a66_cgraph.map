@@ -1,0 +1,7 @@
+<map id="train.TrainingNode.on_receive_laser_scan" name="train.TrainingNode.on_receive_laser_scan">
+<area shape="rect" id="node1" title=" " alt="" coords="5,27,168,69"/>
+<area shape="rect" id="node2" href="$namespacewallfollowing.html#aee6ae92875be013811e6c0f28d3b9f7d" title=" " alt="" coords="224,5,371,32"/>
+<area shape="rect" id="node3" href="$classtrain_1_1_training_node.html#af54dce4a778ce1074d412abd1b541c28" title=" " alt="" coords="216,57,379,98"/>
+<area shape="rect" id="node4" href="$classtrain_1_1_training_node.html#a3779924e099cc6fe56ba071a9c21ef88" title=" " alt="" coords="427,23,593,65"/>
+<area shape="rect" id="node5" href="$classtrain_1_1_training_node.html#af31435707c74d9b609075e225b65e8cb" title=" " alt="" coords="427,89,593,130"/>
+</map>

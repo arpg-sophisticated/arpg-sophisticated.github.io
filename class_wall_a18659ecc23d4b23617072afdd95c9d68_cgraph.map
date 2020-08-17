@@ -1,0 +1,5 @@
+<map id="Wall::draw" name="Wall::draw">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,96,61"/>
+<area shape="rect" id="node2" href="$driving_2wallfollowing1_2include_2rviz__geometry__publisher_8h.html#afe771c547275957f1c8ed44386f9529e" title=" " alt="" coords="183,5,279,32"/>
+<area shape="rect" id="node3" href="$class_rviz_geometry_publisher.html#a4448e349606332f087c4deda0a710032" title=" " alt="" coords="144,57,319,98"/>
+</map>
